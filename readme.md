@@ -1,3 +1,5 @@
+[This repository is archived.  You can find a much more up to date repository here with a lot more information and examples.](https://github.com/MichaelEPope/Additel-Device-Communication)
+
 # Serial Communication With Additel Units
 
 This respository provides examples and a few utility classes for working with Additel units.
